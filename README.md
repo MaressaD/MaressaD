@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaressaD&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&theme=dracula)](https://github.com/MaressaD/github-readme-stats)
+--> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaressaD&theme=dracula&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&theme=dracula)](https://github.com/MaressaD/github-readme-stats)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,js,html,css,react" />
+  </a>
+</p>
