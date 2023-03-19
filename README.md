@@ -1,4 +1,3 @@
-### Oi, eu sou Maressa Dâmaris 👋
 
 <!--
 **MaressaD/MaressaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+  <h3 align="center"> Oi, eu sou Maressa Dâmaris</h3> 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=bc4f63&icon_color=ffff00&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
