@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaressaD&theme=dracula&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&theme=dracula)](https://github.com/MaressaD/github-readme-stats)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=bc4f63&icon_color=ffff00&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&hide_border=true&title_color=bc4f63&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,js,html,css,react" />
   </a>
 </p>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc4f63&height=120&section=footer"/>
+
+
+ 
