@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   <h3 align="center"> Oi, eu sou Maressa Dâmaris</h3> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=bc4f63&icon_color=ffff00&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&hide_border=true&title_color=bc4f63&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=F24B7C&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaressaD&layout=compact&hide_border=true&title_color=F24B7C&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc4f63&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=120&section=footer"/>
 
 
  
