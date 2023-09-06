@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-  <h3 align="center"> Oi, eu sou Maressa Dâmaris</h3> 
+  <h3 align="center"> Hey, i'm Maressa Dâmaris</h3> 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=F24B7C&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
