@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,js,react,mui,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,postgresql,prisma,react,figma,tailwind" />
   </a>
 </p>
  
