@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=160&section=header&text=Maressa%20Lima&fontSize=28&fontColor=FFFFFF&fontAlignY=35&"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=160&"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F24B7C&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Natal%2FRN+%E2%80%94+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
