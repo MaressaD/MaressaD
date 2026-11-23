@@ -1,35 +1,56 @@
-
-<!--
-**MaressaD/MaressaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-  <h3 align="center"> Hey, i'm Maressa Dâmaris</h3> 
-
-<!--  
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20i'm%20Maressa"/>--> 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaressaD&show_icons=true&count_private=true&hide_border=true&title_color=F24B7C&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaressaD&layout=compact&hide_border=true&title_color=F24B7C&text_color=FFFFFF&bg_color=0d1117" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=160&section=header&text=Maressa%20Lima&fontSize=28&fontColor=FFFFFF&fontAlignY=35&"/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,postgresql,prisma,react,figma,tailwind" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F24B7C&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Natal%2FRN+%E2%80%94+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </p>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=120&section=footer"/>
 
+### 👩‍💻 Sobre mim
 
- 
+- 💼 Desenvolvedora **Full Stack Web**, com foco em **React, TypeScript e Node.js**
+- 📱 Também desenvolvo para **mobile** com React Native
+- 🧠 Base sólida em **C e C++**: programação avançada, sistemas operacionais e processamento digital de imagens
+- 📍 Natal/RN, Brasil
+- 📫 Fale comigo pelo [Instagram](https://www.instagram.com/maressadld/)
+
+### 🛠️ Stacks
+
+**Front-end & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10" />
+</p>
+
+**Back-end & Banco de dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&perline=10" />
+</p>
+
+**Linguagens de base & Ferramentas**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,linux,vscode,figma&perline=10" />
+</p>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaressaD&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaressaD&theme=github_dark" alt="Linguagens" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaressaD&bg_color=0d1117&color=FFFFFF&line=F24B7C&point=F1D559&area=true&area_color=F24B7C&hide_border=true" alt="Gráfico de atividade" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MaressaD&hide_border=true&background=0D1117&ring=F24B7C&fire=F24B7C&currStreakLabel=F24B7C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+</div>
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [mobile](https://github.com/MaressaD/mobile) | Aplicativo mobile | TypeScript |
+| [Projeto_Escultor3d](https://github.com/MaressaD/Projeto_Escultor3d) | Escultor 3D em voxels (Programação Avançada) | C++ |
+| [sistemas_operacionais](https://github.com/MaressaD/sistemas_operacionais) | Atividades de Sistemas Operacionais | C++ |
+| [pdi_atividades](https://github.com/MaressaD/pdi_atividades) | Processamento Digital de Imagens | C++ |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F24B7C&height=120&section=footer"/>
